@@ -1,6 +1,16 @@
 # GitlabAccess v2.2
-[Download](http://172.17.84.56:55555/GitlabAccess/gitlabaccess.html)
 GitlabAccessV2.3.zip
+
+# 写在前面
+使用python、以及gitlab rest api v4实现，仅支持gitlab仓库的权限管理。
+
+
+## 0 主要功能说明
+* 身份认证 - 支持Token导入
+* 支持单个仓库成员权限管理
+* 支持repo项目仓库成员权限管理和查看
+* 支持批量开通成员的仓库权限
+* 支持查看单个仓库的成员权限情况
 
 ## 1 v2.2 版本说明
 #### 1.1功能说明
